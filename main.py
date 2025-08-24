@@ -29,7 +29,6 @@ def main():
         state["state"] = consts.WIN_STATE
 
 
-
     screen.draw_game(state)
 
 
