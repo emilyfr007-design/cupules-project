@@ -28,4 +28,3 @@ def run_game():
         pygame.quit()
 
 
-run_game()
